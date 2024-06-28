@@ -5,9 +5,9 @@ From left to right are the original image, encrypted image, and decrypted image:
 
 <!-- Images Original, Encrypted, Decrypted -->
 <p align="center">
-  <img src="./funky_chicken.png" width="300" />
-  <img src="./misc/funky_chicken_enc.png" width="300" />
-  <img src="./misc/funky_chicken_dec.png" width="300" />
+  <img src="./funky_chicken.png" width="200" />
+  <img src="./misc/funky_chicken_enc.png" width="200" />
+  <img src="./misc/funky_chicken_dec.png" width="200" />
 </p>
 
 ## Explanation
